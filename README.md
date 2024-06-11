@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">🌱 I’m currently learning with The Odin Project & Codedex.io<br><br>💬 Ask me about HTML, CSS, Js<br><br>📫 How to reach me: jaykrrishnagadhavi4@gmail.com<br><br>⚡ Fun fact I am a comedian too!!</p>
+<p align="center">🌱 I’m currently on the path to become a <span style="font-weight: bold">Full Stack Web Develper</span> with Codecademy.<br><br>💬 Ask me about HTML, CSS, Js<br><br>📫 How to reach me: jaykrrishnagadhavi4@gmail.com<br><br>⚡ Fun fact I am a comedian too!!</p>
 
 ###
 
