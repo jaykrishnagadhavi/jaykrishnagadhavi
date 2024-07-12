@@ -4,13 +4,13 @@
 </div>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Full Stack Development from Codecademy**
+<p align="center">- 🌱 I’m currently learning **Full Stack Development from Codecademy**</p>
 
-- 💬 Ask me about **HTML, CSS, Js**
+<p align="center">- 💬 Ask me about **HTML, CSS, Js**</p>
 
-- 📫 How to reach me **jaykrishnagadhavi4"gmail.com**
+<p align="center">- 📫 How to reach me **jaykrishnagadhavi4"gmail.com**</p>
 
-- ⚡ Fun fact **I am a standuo comedian too!!**
+<p align="center">- ⚡ Fun fact **I am a standuo comedian too!!**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
