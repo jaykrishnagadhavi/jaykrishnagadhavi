@@ -2,11 +2,11 @@
 <div align="center">
   <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNnZHd1dDc2dHEwc2lkb2lhdHB2OHIwYWh1ZnFramgzbngxZXB2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 <p align="center">- 🌱 I’m currently learning **Full Stack Development from Codecademy**</p>
 
-<p align="center">- 💬 Ask me about **HTML, CSS, Js**</p>
+<p align="center">- 💬 Ask me about **HTML, CSS, Js, React**</p>
 
 <p align="center">- 📫 How to reach me **jaykrishnagadhavi4"gmail.com**</p>
 
