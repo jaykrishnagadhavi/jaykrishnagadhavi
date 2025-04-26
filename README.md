@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNnZHd1dDc2dHEwc2lkb2lhdHB2OHIwYWh1ZnFramgzbngxZXB2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+</div>
+
+
+<div align="center">
 <h1>Hi 👋, I'm Jaykrishna</h1>
 <p>An aspiring web-dev from India</p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -15,3 +21,4 @@
 <a target="_blank" href="https://www.linkedin.com/in/jaykrishna-gadhavi-a313602a5" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/justtjackyy" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaykrishnagadhavi&" alt="jaykrishnagadhavi" /></p>
+</div>
