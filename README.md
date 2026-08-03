@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./generated/ascii.svg" width="860" alt="ASCII Portrait"/>
+<img src="./generated/ascii.svg" width="560" alt="ASCII Portrait"/>
 
 # Jacky Gadhavi
 
