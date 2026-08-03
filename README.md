@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="generated/test.svg" width="700" alt="Generated SVG">
+</p>
 # Hi, I'm Jacky 👋
 
 Welcome to my GitHub profile!
