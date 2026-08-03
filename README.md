@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="generated/test.svg" width="700" alt="Generated SVG">
-</p>
+<div align="center">
+  <img src="./generated/ascii.svg" width="860" alt="ascii portrait"/>
+</div>
 # Hi, I'm Jacky 👋
 
 Welcome to my GitHub profile!
