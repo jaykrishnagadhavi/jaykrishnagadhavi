@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./generated/ascii.svg" width="560" alt="ASCII Portrait"/ style="float:left;">
+<img src="./generated/ascii.svg" width="560" alt="ASCII Portrait"/>
 
 # Jaykrishna Gadhavi
 
