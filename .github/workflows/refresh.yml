@@ -1,0 +1,32 @@
+name: Refresh GitHub Stats
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: Run generator
+        run: python scripts/generate_stats.py
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add generated/
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Generate SVG"
+            git push
+          fi
