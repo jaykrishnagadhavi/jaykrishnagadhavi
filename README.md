@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Jacky 👋
 
-<!--
-**jaykrishnagadhavi/jaykrishnagadhavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm currently learning Full Stack Web Development through Angela Yu's course.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- Complete the course
+- Build real-world projects
+- Learn Git & GitHub
+- Get my first tech job
+
+---
+🚧 This profile is under construction.
