@@ -11,4 +11,26 @@ I'm currently learning Full Stack Web Development through Angela Yu's course.
 - Get my first tech job
 
 ---
-🚧 This profile is under construction.
+## 📚 Learning Journey
+
+### Course
+- Angela Yu – The Complete Full-Stack Web Development Bootcamp
+
+### Current Progress
+- ✅ HTML
+- ✅ Intermediate HTML
+- ✅ CSS Basics
+- ✅ CSS Box Model
+- ✅ CSS Display
+- 🔄 CSS Float (Current)
+
+### Next Up
+- Flexbox
+- Grid
+- Bootstrap
+- JavaScript
+- DOM
+- Node.js
+- Express
+- React
+- PostgreSQL
