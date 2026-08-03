@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./generated/ascii.svg" width="560" alt="ASCII Portrait"/>
+<img src="./generated/ascii.svg" width="560" alt="ASCII Portrait"/ style="float:left;">
 
-# Jacky Gadhavi
+# Jaykrishna Gadhavi
 
 ### Full Stack Web Developer in Progress
 
