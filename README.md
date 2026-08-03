@@ -25,18 +25,6 @@ My goal is simple:
 
 ---
 
-<img src="./hd-stack.svg" width="620" alt="Stack"/>
-
-### Currently Learning
-
-```
-HTML  ██████████ 100%
-CSS   ███████░░░ 70%
-JS    ░░░░░░░░░░ 0%
-React ░░░░░░░░░░ 0%
-Node  ░░░░░░░░░░ 0%
-```
-
 ### Technologies
 
 <p>
@@ -48,18 +36,6 @@ Node  ░░░░░░░░░░ 0%
 <p>
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,postgres,tailwind,docker" />
 </p>
-
----
-
-<img src="./hd-projects.svg" width="620" alt="Projects"/>
-
-| Project | Status |
-|---------|--------|
-| Course Exercises | 🚧 In Progress |
-| Portfolio Website | ⏳ Planned |
-| Todo App | ⏳ Planned |
-| Blog Website | ⏳ Planned |
-| E-Commerce Website | ⏳ Planned |
 
 ---
 
@@ -81,17 +57,6 @@ Node  ░░░░░░░░░░ 0%
 
 ---
 
-<img src="./hd-about-this-page.svg" width="620" alt="About this page"/>
-
-Everything on this profile is generated from my own repository.
-
-- Custom ASCII portrait
-- Self-generated GitHub statistics
-- SVG animations
-- GitHub Actions automation
-- No third-party stats services
-
----
 
 <div align="center">
 
