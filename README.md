@@ -14,13 +14,13 @@ Learning through **Angela Yu's Complete Full-Stack Web Development Bootcamp**
 
 ### Technologies
 
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,js,react,nodejs,docker,php" />
 
 <br>
 
 ### Coming Soon
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,postgres,docker,tailwind,figma" />
+<img src="https://skillicons.dev/icons?i=express,mongodb,postgres,tailwind,figma" />
 
 <br><br>
 
